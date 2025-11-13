@@ -1,0 +1,7 @@
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\bin\Debug\Ex_file_2k_14.exe.config
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\bin\Debug\Ex_file_2k_14.exe
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\bin\Debug\Ex_file_2k_14.pdb
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\obj\Debug\Ex_file_2k_14.csproj.AssemblyReference.cache
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\obj\Debug\Ex_file_2k_14.csproj.CoreCompileInputs.cache
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\obj\Debug\Ex_file_2k_14.exe
+C:\Users\ColégioCruzeirodoSul.AzureAD\source\repos\Ex_file_2k_14\Ex_file_2k_14\obj\Debug\Ex_file_2k_14.pdb

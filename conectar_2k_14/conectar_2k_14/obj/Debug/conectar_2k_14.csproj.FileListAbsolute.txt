@@ -1,0 +1,8 @@
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\bin\Debug\conectar_2k_14.exe.config
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\bin\Debug\conectar_2k_14.exe
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\bin\Debug\conectar_2k_14.pdb
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\obj\Debug\conectar_2k_14.csproj.AssemblyReference.cache
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\obj\Debug\conectar_2k_14.csproj.CoreCompileInputs.cache
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\obj\Debug\conectar_2k_14.exe
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\obj\Debug\conectar_2k_14.pdb
+C:\Users\ColégioCruzeirodoSul\source\repos\conectar_2k_14\conectar_2k_14\obj\Debug\conectar_2k_14.exe.config
